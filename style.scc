@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 10px;
+    font-size: 20px;
+}
+
+header{
+    background-color: beige;
+
+}
+
+h1 {
+    font-size: 50px; 
+    color: bisque;
+
+}
+
+footer p{
+    background-color: burlywood;
+}
+
+nav{
+    border: 1px colid lightcyan;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: }
+
+    main p{
+        background-color: green;
